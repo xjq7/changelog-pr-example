@@ -9,6 +9,7 @@
   "keywords": [],
   "license": "ISC",
   "devDependencies": {
+    "@eat-fish/changelog": "^1.0.5",
     "typescript": "^5.4.5"
   }
 }
